@@ -8,7 +8,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Akash Pathak';
   title    = 'Software Engineer';
   location = 'Bihar, India';
-  availblity = "Available to hire!!"
+  availability = "Available to hire!!"
 }
 
 class Skills extends SoftwareDeveloper {
