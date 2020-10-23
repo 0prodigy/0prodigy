@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते <span >:pray:</span></h1>
+<h1 align="center"> नमस्ते <span style="margin-left:'5';"><img src="https://emojis.slackmojis.com/emojis/images/1471045866/898/praying.gif?1471045866" width="40"/></span></h1>
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="270" />
 
 ```js
