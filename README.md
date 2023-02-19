@@ -8,13 +8,13 @@ class Bio extends SoftwareDeveloper {
   name     = 'Akash Pathak';
   title    = 'Software Engineer';
   location = 'Bihar, India';
-  availability = "Available to hire!!"
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Python'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'Express Js', 'Angular'];
+  languages  = ['JavaScript', 'Go', 'Python', 'Lua', 'Rust'];
+  databases  = ['MySQL', 'MongoDB', 'Etcd', 'Redis'];
+  frameworks = ['React', 'Next.js', 'Fiber', 'Express Js', 'Flask', 'FastAPI', 'Angular'];
+  cloud      = ['Kubernetes', 'GCP', 'AWS']
 }
 ```
 
