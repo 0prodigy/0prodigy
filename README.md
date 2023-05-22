@@ -12,8 +12,8 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Go', 'Python', 'Lua', 'Rust'];
-  databases  = ['MySQL', 'MongoDB', 'Etcd', 'Redis'];
-  frameworks = ['React', 'Next.js', 'Fiber', 'Express Js', 'Flask', 'FastAPI', 'Angular'];
+  databases  = ['MySQL', 'MongoDB', 'Etcd', 'Redis', 'Clickhouse'];
+  frameworks = ['React', 'Next.js', 'Fiber', 'Express Js', 'Flask', 'FastAPI', 'Astra'];
   cloud      = ['Kubernetes', 'GCP', 'AWS']
 }
 ```
